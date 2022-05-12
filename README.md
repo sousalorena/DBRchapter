@@ -157,7 +157,27 @@ Another recommendation is the book _Educational Design Research_, chapter 4:
 ## 7. Main activities in each phase
 There are no one-size-fits-all steps for tackling different challenges in the context of DBR. There are, however, processes and activities which are often useful. We are going to briefly present you a repertoire so that you can select and use the most fitting approaches for your study.
 
-# TABLE
+Analysis/exploration | Design/construction | Evaluation/reflection
+---|---|---
+- preliminary field-based investigation 
+- context analysis and needs assessment
+- literature review
+- understanding the problem
+- professional meetings and networking
+- site visits
+|
+- exploring solutions
+- generating, considering and checking ideas
+- description of the skeleton design to detailed specifications
+- creating prototypes 
+- revising prototypes
+|
+- select strategies and determine methods
+- prepare the instruments to collect data
+- collect and analyse data
+- report the study
+- organic or structured reflection
+
 
 #### Reading recommendation: 
 To deepen your knowledge on the main activities and outputs of each phase, please check _Part II Core processes_ from the book _Conducting Educational Design Research_, by McKenney and Reeves (2012). This part of the book is divided in four chapters:
@@ -204,7 +224,7 @@ We also recommend the book _Conducting Educational Design Research_, by Susan Mc
 - Design-based research: A decade of progress in education research? (Anderson, T., Shattuck, J., 2012) [link](https://journals.sagepub.com/doi/10.3102/0013189X11428813) 
 - Affordances and limitations of immersive participatory augmented reality simulations for teaching and learning (Dunleavy, M., Dede, C., Mitchell, R., 2009) [link](https://link.springer.com/article/10.1007/s10956-008-9119-1) 
 
-###9.3 Scholarly reading
+### 9.3 Scholarly reading
 - Design-Based Research: Putting a Stake in the Ground [link](https://sashabarab.org/wp-content/uploads/2015/03/dbr-jls.pdf), from Sasha Barab of Indiana University and Kurt Squire of the University of Wisconsin
 - Design-Based Research and Technology-Enhanced Learning Environments [link](https://www.researchgate.net/publication/225626676_Design-based_research_and_technology-enhanced_learning_environments_Educational_Technology_Research_and_Development_534_5-23), from Feng Wang and Michael Hannafin of the University of Georgia
 - Design-Based Research Methods for Studying Learning in Context: Introduction [link](http://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.488.5019&rep=rep1&type=pdf), from William Sandoval of the University of California and Philip Bell of the University of Washington
