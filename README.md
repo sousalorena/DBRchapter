@@ -185,4 +185,60 @@ In his _Generic Design Research Model_, Wademan (2005) pictures the features and
 For a deeper discussion of the DBR characteristics, check the references.
 
 We also recommend the book _Conducting Educational Design Research_, by Susan McKenney and Thomas C. Reeves (2012), chapter 1: _About educational design research_.
-* McKenney, S., & Reeves, T. (2012). Toward a generic model for educational design research. In S. McKenney, & T. Reeves (Eds), Conducting Educational Design Research (pp. 61-82). London: Routledge. link
+* McKenney, S., & Reeves, T. (2012). Toward a generic model for educational design research. In S. McKenney, & T. Reeves (Eds), Conducting Educational Design Research (pp. 61-82). London: Routledge. [link](https://www.routledge.com/Conducting-Educational-Design-Research/McKenney-Reeves/p/book/9781138095564)
+
+
+## 9. Further readings
+
+### 9.1 Introductory resources
+- What is Design-based Research? (University of Georgia) [link](http://dbr.coe.uga.edu/explain01.htm)  
+- Design-based research (EduTech Wiki) [link](http://edutechwiki.unige.ch/en/Design-based_research)
+- Design-Based Research Webliography (University of Georgia) [link](http://dbr.coe.uga.edu/FAQ.html)  
+- Design-Based Research (University of Calgary, by Michele Jacobsen) [link](https://www.edcan.ca/articles/design-based-research/) 
+- Design-Based Research: An Emerging Paradigm for Educational Inquiry (The Design-Based Research Collective) [link](http://www.designbasedresearch.org/reppubs/DBRC2003.pdf) 
+
+### 9.2 Research articles
+- Design-Based Research: An Emerging Paradigm for Educational Inquiry (Baumgartner, E., Bell, P., Brophy, S., (...), Sandoval, W., Tabak, I., 2003) [link](https://journals.sagepub.com/doi/10.3102/0013189X032001005) 
+- Design-Based Research: Putting a Stake in the Ground (Barab, S., Squire, K., 2004) [link](https://www.tandfonline.com/doi/abs/10.1207/s15327809jls1301_1) 
+- Design-based research and technology-enhanced learning environments (Wang, F., Hannafin, M.J., 2005) [link](https://link.springer.com/article/10.1007/BF02504682) 
+- Design-based research: A decade of progress in education research? (Anderson, T., Shattuck, J., 2012) [link](https://journals.sagepub.com/doi/10.3102/0013189X11428813) 
+- Affordances and limitations of immersive participatory augmented reality simulations for teaching and learning (Dunleavy, M., Dede, C., Mitchell, R., 2009) [link](https://link.springer.com/article/10.1007/s10956-008-9119-1) 
+
+###9.3 Scholarly reading
+- Design-Based Research: Putting a Stake in the Ground [link](https://sashabarab.org/wp-content/uploads/2015/03/dbr-jls.pdf), from Sasha Barab of Indiana University and Kurt Squire of the University of Wisconsin
+- Design-Based Research and Technology-Enhanced Learning Environments [link](https://www.researchgate.net/publication/225626676_Design-based_research_and_technology-enhanced_learning_environments_Educational_Technology_Research_and_Development_534_5-23), from Feng Wang and Michael Hannafin of the University of Georgia
+- Design-Based Research Methods for Studying Learning in Context: Introduction [link](http://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.488.5019&rep=rep1&type=pdf), from William Sandoval of the University of California and Philip Bell of the University of Washington
+- On the theoretical breadth of design-based research in education [link](http://faculty.washington.edu/pbell/EPDBR_Bell.pdf), from Philip Bell of the University of Washington
+- Using a Design-Based Research Study to Identify Principles for Training Instructors to Teach Online [link](https://www.irrodl.org/index.php/irrodl/article/view/1626/2710), from Julie Shattuck of Frederick Community College and Terry Anderson of Athabasca University
+- Publishing and perishing: The critical importance of educational design research [link](https://ajet.org.au/index.php/AJET/article/view/982/255), from Thomas Reeves of the University of Georgia, Susan McKenney of the University of Twente, and Jan Herrington of Murdoch University
+- Design-Based Research and Educational Technology: Rethinking Technology and the Research Agenda [link](https://www.researchgate.net/publication/220374789_Design-Based_Research_and_Educational_Technology_Rethinking_Technology_and_the_Research_Agenda), from Tel Amiel of the State University of Campinas and Thomas Reeves of the University of Georgia
+- The Practice of Design-Based Research: Uncovering the Interplay Between Design, Research, and the Real-World Context [link](http://treeves.coe.uga.edu/EDIT9990/Joseph2004.pdf), from Diana Joseph of the University of Chicago
+- Research Approaches for Innovation and Change [link](https://link.springer.com/book/10.1007/978-90-481-8933-5), from Methodological Choice and Design (Part II)
+- Design research: A socially responsible approach to instructional technology research in higher education [link](http://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.110.652&rep=rep1&type=pdf), from Thomas Reeves of the University of Georgia, Jan Herrington of the University of Willongong, and Ron Oliver of Edith Cowan University
+
+### 9.4 Practical examples
+- Design-based Research Strategies for Studying Situated Learning in a Multi-user Virtual Environment [link](https://www.researchgate.net/publication/228952614_Design-based_research_strategies_for_studying_situated_learning_in_a_multi-user_virtual_environment), from Chris Dede, Brian Nelson, Diane Ketelhut, Jody Clarke, and Cassie Bowman of Harvard University
+- Design-based Research Strategies for Developing a Scientific Inquiry Curriculum in a Multi-User Virtual Environment [link](https://www.researchgate.net/publication/254365539_Design-based_Research_Strategies_for_Developing_a_Scientific_Inquiry_Curriculum_in_a_Multi-User_Virtual_Environment), from Brian Nelson, Diane Ketelhut, Jody Clarke, Cassie Bowman, and Chris Dede of Harvard University
+- Combining design-based research and action research to test management solutions [link](https://www.researchgate.net/profile/Daniel-Andriessen/publication/242695924_Combining_design-based_research_and_action_research_to_test_management_solutions/links/0a85e5341353c4c185000000/Combining-design-based-research-and-action-research-to-test-management-solutions.pdf), from Daniel Andriessen of Jogeschool Utrecht
+- Creating context: Design-based research in creating and understanding CSCL [link](http://tophe.net/papers/cscl02hoadley.pdf), from Christopher Hoadley of Stanford Research Institute
+- Design-based research: case of a teaching sequence on mechanics [link](https://hal.archives-ouvertes.fr/hal-00529922/document), from Andree Tiberghien, Jacques Vince, and Pierre Gaidioz
+- An introduction to design-based research with an example from statistics education [link](https://www.researchgate.net/publication/256618979_An_Introduction_to_Design-Based_Research_with_an_Example_From_Statistics_Education), from Arthur Bakker and Dolly van Eerde of Utrecht University
+- A journey through a Design-based Research Project [link](https://ro.uow.edu.au/cgi/viewcontent.cgi?article=2308&context=edupapers), from Wayne Cotton of the University of Sydney, and Lori Lockyer and Gwyn Brickell of the University of Wollongong
+- Design-Based Research in Science Education: One Step Towards Methodology [link](https://www.researchgate.net/publication/320337173_Design-Based_Research_in_Science_Education_One_Step_Towards_Methodology), from Kalle Juuti and Jari Lavonen of the University of Helsinki
+- Design based research to create instructional design templates for learning objects [link](https://www.it.iitb.ac.in/~sri/papers/dbr4LOs-nfe2013.pdf), from Sameer Sahsasrabudhe, Sahana Murthy, and Sridhar Iyer of Indian Institute of Technology-Bombay
+
+
+## References
+* Bakker, A. (2018). Design Research in Education: a Practical Guide for Early Career Researchers. London: Routledge. [link](https://www.routledge.com/Design-Research-in-Education-A-Practical-Guide-for-Early-Career-Researchers/Bakker/p/book/9781138574489)
+* Design-Based Research Collective. (2003). Design-based research: An emerging paradigm for educational inquiry. Educational Researcher, 32(1), 5-8. [link](https://journals.sagepub.com/doi/10.3102/0013189X032001005)
+* Kelly, A.E. (2006). Quality criteria for design research: Evidence and commitments. In J. van den Akker, K. Gravemeijer, S. McKenney, & N. Nieveen (Eds.), Educational design research (pp.107-118). London: Routledge. [link](https://www.routledge.com/Educational-Design-Research/Akker-Gravemeijer-McKenney-Nieveen/p/book/9780415396356)
+* McKenney, S. (2001). Computer-based support for science education materials developers in Africa: Exploring potentials. Doctoral dissertation. Enschede, the Netherlands: University of Twente. [link](https://research.utwente.nl/en/publications/computer-based-support-for-science-education-materials-developers)
+* McKenney, S., & Reeves, T. (2012). Toward a generic model for educational design research. In S. McKenney, & T. Reeves (Eds), Conducting Educational Design Research (pp. 61-82). London: Routledge. [link](https://www.routledge.com/Conducting-Educational-Design-Research/McKenney-Reeves/p/book/9781138095564)
+* McKenney, S., & Reeves, T. (2012). Conducting Educational Design Research. London: Routledge. [link](https://www.routledge.com/Conducting-Educational-Design-Research/McKenney-Reeves/p/book/9781138095564)
+* Nieveen, N. (1999). Prototyping to reach product quality. In J. van den Akker, R.M. Branch, K. Gustafson, N. Nieveen, & T. Plomp (Eds), Design approaches and tools in education and training (pp. 125-136). Boston: Kluwer Academic. [link](https://link.springer.com/book/10.1007/978-94-011-4255-7)
+* Plomp, T., & Nieveen, N. (Eds.). (2013). Educational design research: an Introduction. Enschede, the Netherlands: SLO. [link](https://slo.nl/publish/pages/2904/educational-design-research-part-a.pdf)
+* Reeves, T.C. (2006). Design research from a technology perspective. In J. van den Akker, K. Gravemeijer, S. McKenney, & N. Nieveen (Eds.), Educational design research (pp. 52-66). London: Routledge. [link](https://www.routledge.com/Educational-Design-Research/Akker-Gravemeijer-McKenney-Nieveen/p/book/9780415396356) 
+* Van den Akker, J. (1999). Principles and methods of development research. In J. van den Akker, R.M. Branch, K. Gustafson, N. Nieveen, & T. Plomp (Eds.), Design approaches and tools in education and training (pp. 1-14). Boston: Kluwer Academic. [link](https://link.springer.com/book/10.1007/978-94-011-4255-7)
+* Van den Akker, J., Gravemeijer, K, McKenney, S. & Nieveen, N. (Eds.). (2006). Educational design research. London: Routledge. [link](https://www.routledge.com/Educational-Design-Research/Akker-Gravemeijer-McKenney-Nieveen/p/book/9780415396356) 
+* Wademan, M.R. (2005). Utilizing development research to guide people-capability maturity model adoption considerations. Doctoral dissertation. Syracuse: Syracuse University. Dissertation Abstracts International, 67-01A, 434. (UMI No. 3205587) [link](https://surface.syr.edu/idde_etd/12/)
+
