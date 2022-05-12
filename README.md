@@ -55,7 +55,7 @@ Plomp (2013) affirms that, in general, various research functions can be identif
 
 If you are writing your research project, you must begin with a research problem or a research question. There is a logical sequence of development, let’s take a look at it:
 
-_problem → research question → (primary) research function → choice of research design_
+> _problem → research question → (primary) research function → choice of research design_
 
 We already saw examples of research questions and their research function. So now you are going to see examples of research designs.
 
