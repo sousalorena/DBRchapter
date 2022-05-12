@@ -1,5 +1,6 @@
 # An introduction to Design-based Research in TEL
-Authors: Lorena Sousa, Luís Pedro, and Carlos Santos
+Authors: Lorena Sousa (lorena@ua.pt), Luís Pedro, and Carlos Santos
+University of Aveiro, Portugal
 
 ## 1. Introduction
 
