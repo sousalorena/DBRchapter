@@ -159,7 +159,7 @@ There are no one-size-fits-all steps for tackling different challenges in the co
 
 Analysis/exploration | Design/construction | Evaluation/reflection
 ---|---|---
-preliminary field-based investigation; context analysis and needs assessment; literature review; understanding the problem; professional meetings and networking; site visits | exploring solutions; generating, considering and checking ideas; description of the skeleton design to detailed specifications; creating prototypes; revising prototypes | select strategies and determine methods; prepare the instruments to collect data; collect and analyse data; report the study; organic or structured reflection
+* preliminary field-based investigation; * context analysis and needs assessment; * literature review; * understanding the problem; professional meetings and networking; site visits | exploring solutions; generating, considering and checking ideas; description of the skeleton design to detailed specifications; creating prototypes; revising prototypes | select strategies and determine methods; prepare the instruments to collect data; collect and analyse data; report the study; organic or structured reflection
 
 
 #### Reading recommendation: 
