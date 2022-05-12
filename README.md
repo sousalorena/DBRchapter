@@ -79,15 +79,15 @@ Think of a general problem faced by practitioners in the Education and Technolog
 
 ## 5. The overall research question in DBR
 Here we have some examples of research question structures that might help you when elaborating yours, in case you are going to conduct a research using DBR as the research method.
-* What are the characteristics of an intervention X for the purpose/outcome Y in context Z? (Plomp, 2013)
-* What are the characteristics of an effective teaching and learning strategy aimed at acquiring certain learning outcomes in a certain context?
+* _What are the characteristics of an intervention X for the purpose/outcome Y in context Z?_ (Plomp, 2013)
+* _What are the characteristics of an effective teaching and learning strategy aimed at acquiring certain learning outcomes in a certain context?_
 
 Examples of research questions using the structure above are:
 
-* What are the characteristics of an intervention for promoting academic research writing which will best support graduates in education in the proposal stage of their research? (Dowse & Howie, 2013)
-* What are the characteristics of micro-scale chemistry curriculum materials so that they contribute to the implementation of effective practical work in chemistry teaching in Tanzania schools? (Mafumiko, Voogt, & van den Akker, 2013)
-* What are the characteristics of a digital resource for teaching and learning mathematics in secondary schools? 
-* What are the characteristics of an online course aimed at enhancing second language acquisition in higher education? 
+* _What are the characteristics of an intervention for promoting academic research writing which will best support graduates in education in the proposal stage of their research?_ (Dowse & Howie, 2013)
+* _What are the characteristics of micro-scale chemistry curriculum materials so that they contribute to the implementation of effective practical work in chemistry teaching in Tanzania schools?_ (Mafumiko, Voogt, & van den Akker, 2013)
+* _What are the characteristics of a digital resource for teaching and learning mathematics in secondary schools?_ 
+* _What are the characteristics of an online course aimed at enhancing second language acquisition in higher education?_ 
 
 #### Reflective activity
 Now, if you are thinking of conducting a Design-Based Research, try to formulate your research question using the structure presented above. 
