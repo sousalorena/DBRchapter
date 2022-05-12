@@ -75,3 +75,75 @@ Textbooks on research methodology usually do not present and discuss design rese
  
 ### Reflective activity
 Think of a general problem faced by practitioners in the Education and Technology-enhanced Learning field. Try to formulate a research question to this problem. Write your research question and contextualize the problem briefly. What is its research function? What is its research design? 
+
+
+## 5. The overall research question in DBR
+Here we have some examples of research question structures that might help you when elaborating yours, in case you are going to conduct a research using DBR as the research method.
+* What are the characteristics of an intervention X for the purpose/outcome Y in context Z? (Plomp, 2013)
+* What are the characteristics of an effective teaching and learning strategy aimed at acquiring certain learning outcomes in a certain context?
+
+Examples of research questions using the structure above are:
+
+* What are the characteristics of an intervention for promoting academic research writing which will best support graduates in education in the proposal stage of their research? (Dowse & Howie, 2013)
+* What are the characteristics of micro-scale chemistry curriculum materials so that they contribute to the implementation of effective practical work in chemistry teaching in Tanzania schools? (Mafumiko, Voogt, & van den Akker, 2013)
+* What are the characteristics of a digital resource for teaching and learning mathematics in secondary schools? 
+* What are the characteristics of an online course aimed at enhancing second language acquisition in higher education? 
+
+### Reflective activity
+Now, if you are thinking of conducting a Design-Based Research, try to formulate your research question using the structure presented above. 
+
+## 6. Cycles and phases
+Whatever the purpose of DBR - development studies (to develop research-based solutions for complex problems in educational practice) or validation studies (to develop or validate theories about processes of learning and teaching) -, the research process always incorporates systematic educational design processes, as illustrated below:
+
+Like all systematic educational and instructional design processes - it is cyclical or iterative. It incorporates cycles of analysis, design, evaluation and revision activities until a balance between the intended ideas and realization has been achieved. This process can be illustrated in several ways, depending on how authors have visualized it. 
+
+Let’s see another example.
+
+### Reeves’ model
+Reeves (2006) presented a model that highlights four main phases of DBR:
+
+The arrows represent the iterative characteristic of the process.
+
+### McKenney’s model
+This model below was the research design used by Susan McKenney in her thesis.
+
+
+It has three main phases: needs & context analysis; design, development & formative evaluation; and semi-summative evaluation.
+
+Each phase consisted of multiple cycles of activities: 
+
+In the first micro cycle, for example, literature review and concept validation were conducted; in the second micro cycle, site visits were carried out; in the second phase, there were four micro cycles of prototype development; and then a final evaluation and a query were conducted in the third phase, representing one micro cycle each.
+
+In total, eight micro cycles were conducted, two in the first phase, four in the second, and two in the third one.
+
+The number of participants varied in each cycle. In the first cycle there were about 20 participants; in the second, about 50; in the third, there were almost 60, and so on.
+
+According to the scale, each cycle lasted about six months.
+
+### McKenney and Reeves’ model
+Based on their survey and analysis of existing models and frameworks for DBR, McKenney and Reeves created the _generic model for conducting design research in education_:
+
+This model shows the core elements of a flexible process that features the three main stages: analysis/exploration, design/construction, and evaluation/reflection. 
+
+The three stages take place in interaction with implementation and spread, and this model provides the dual outputs of intervention and theoretical understanding.
+
+### Summary
+Authors may vary in the details of how they portray DBR, but they all agree that DBR consists of three main phases: preliminary research, development or prototyping phase, and assessment phase (Plomp, 2013).
+
+
+* **Preliminary research** consists of needs and context analysis, review of the literature and of projects addressing questions similar to the ones in your study, and development of a conceptual framework.
+* The **development or prototyping phase** consists of an iterative process where prototypes are going to be tried out and revised on the basis of formative evaluations. It aims at improving and refining the intervention. 
+* In the **assessment phase**, a semi-summative evaluation is carried out to conclude whether the solution meets the predetermined specifications and whether it is effective. It often results in recommendations for improving the intervention, that is why this evaluation is called semi-summative.
+*Throughout all these activities, the researcher conducts a **systematic reflection and documentation** to produce the theories as the scientific result of the research, besides the intervention that is more practical.
+
+### Reading recommendations:
+For a deeper discussion of the DBR cycles and phases, check the references.
+
+We also recommend the book Conducting Educational Design Research, by Susan McKenney and Thomas C. Reeves (2012), chapter 3: _Toward a generic model for educational design research_.
+* McKenney, S., & Reeves, T. (2012). Toward a generic model for educational design research. In S. McKenney, & T. Reeves (Eds), Conducting Educational Design Research (pp. 61-82). London: Routledge. [link](https://www.routledge.com/Conducting-Educational-Design-Research/McKenney-Reeves/p/book/9781138095564)
+
+Another recommendation is the book _Educational Design Research_, chapter 4:
+* Reeves, T. C. (2006). Design research from a technology perspective. In J. van den Akker, K. Gravemeijer, S. McKenney, & N. Nieveen (Eds.), Educational design research (pp. 52-66). London: Routledge. [link](https://www.routledge.com/Educational-Design-Research/Akker-Gravemeijer-McKenney-Nieveen/p/book/9780415396356)
+
+
+
