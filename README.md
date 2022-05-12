@@ -37,9 +37,41 @@ In addition to these examples, other members of this family are (Plomp, 2013; Re
 * participatory action research 
 * design-based implementation research 
 
-**Reading recommendations**:
-
+### Reading recommendations:
 If you want to have a general and introductory idea about DBR, check the links below:
 * _What is design-based research?_, by University of Georgia (2006) [link](http://dbr.coe.uga.edu/explain01.htm)
 * _7 things you should know about Educational Design Research_, by EDUCAUSE (2012) [link](https://library.educause.edu/resources/2012/8/7-things-you-should-know-about-educational-design-research)
 * _Design-based research_, by Dr. Michele Jacobsen (2014) [link](https://www.edcan.ca/articles/design-based-research/)
+
+
+## 3. Research functions
+Plomp (2013) affirms that, in general, various research functions can be identified and distinguished from each other, with each reflecting certain types of research questions:
+
+* **to describe**: what is the achievement of Chinese grade 8 pupils in mathematics?; what barriers to students’ experience in the learning of mathematical modelling? 
+* **to compare**: what are the differences and similarities between the Chinese and the Netherlands curriculum for primary education?; what is the achievement in mathematics of Chinese grade 8 pupils as compared to that in certain other countries? 
+* **to evaluate**: how well does a program function in terms of competences of graduates?; what are the strengths and weaknesses of a certain approach? 
+* **to explain or to predict**: what are the causes of poor performance in mathematics (i.e. in search of a ‘theory’ predicting a phenomenon when certain conditions or characteristics are met)? 
+* **to design and develop**: what are the characteristics of an effective teaching and learning strategy aimed at acquiring certain learning outcomes?
+
+If you are writing your research project, you must begin with a research problem or a research question. There is a logical sequence of development, let’s take a look at it:
+
+_problem → research question → (primary) research function → choice of research design_
+
+We already saw examples of research questions and their research function. So now you are going to see examples of research designs.
+
+## 4. Research designs
+Examples of research designs and their possible research functions are:
+* _Survey_: to describe, to compare, to evaluate
+* _Case studies_: to describe, to compare, to explain
+* _Experiments_: to explain, to compare
+* _Action research_: to design/develop a solution to a practical problem
+* _Ethnography_: to describe, to explain
+* _Correlational research_: to describe, to compare
+* _Evaluation research_: to determine the effectiveness of a program
+
+Textbooks on research methodology usually do not present and discuss design research, probably due to its recently emerging status and the fact that relatively small groups across several disciplines have been responsible for its development.
+
+* _Design research_: to design and develop an intervention (such as programs, teaching-learning strategies and materials, products and systems) as a solution to a complex educational problem as well as to advance our knowledge about the characteristics of these interventions and the processes to design and develop them, or alternatively to design and develop educational interventions (about for example, learning processes, learning environments and the like) with the purpose to develop or validate theories.
+ 
+### Reflective activity
+Think of a general problem faced by practitioners in the Education and Technology-enhanced Learning field. Try to formulate a research question to this problem. Write your research question and contextualize the problem briefly. What is its research function? What is its research design? 
