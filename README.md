@@ -14,6 +14,7 @@ This chapter is organized in three main parts. In the first part, some definitio
 Two possible purposes of DBR can be identified, and depending on the purpose of the research they may be distinguished between development studies and validation studies (Plomp, 2013).
 * **Development studies**: to develop a research-based intervention as a solution for complex problems in educational practice. 
 * **Validation studies**: to develop or validate theories about processes of learning and teaching.
+
 However, regardless of the purpose, Plomp (2013, p.11) affirms that DBR “encompasses the systematic study of designing, developing and evaluating educational interventions”. These interventions can be programs, learning processes, learning environments, teaching-learning materials, products or systems.
 The Design-Based Research Collective (2003, p.5) states that “educational research is often divorced from the problems and issues of everyday practice – a split that resulted in a credibility gap and creates a need for new research approaches that speak directly to problems of practice and that lead to the development of ‘usable knowledge’.”
 Van den Akker (1999, p.2) writes “that ‘traditional’ research approaches such as experiments, surveys, correlational analyses, with their emphasis on description hardly provide prescriptions that are useful for design and development problems in education”.
