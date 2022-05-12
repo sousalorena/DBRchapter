@@ -95,7 +95,9 @@ Now, if you are thinking of conducting a Design-Based Research, try to formulate
 ## 6. Cycles and phases
 Whatever the purpose of DBR - development studies (to develop research-based solutions for complex problems in educational practice) or validation studies (to develop or validate theories about processes of learning and teaching) -, the research process always incorporates systematic educational design processes, as illustrated below:
 
-# IMAGE
+# IMAGE 1
+![cycle1]()
+_Interactions of systematic design cycles (Plomp, 2013)_
 
 Like all systematic educational and instructional design processes - it is cyclical or iterative. It incorporates cycles of analysis, design, evaluation and revision activities until a balance between the intended ideas and realization has been achieved. This process can be illustrated in several ways, depending on how authors have visualized it. 
 
@@ -104,14 +106,18 @@ Let’s see another example.
 ### Reeves’ model
 Reeves (2006) presented a model that highlights four main phases of DBR:
 
-# IMAGE
+# IMAGE 2
+![cycle2]()
+_Refinement of problems, solutions, methods, and design principles (Reeves, 2006)_
 
 The arrows represent the iterative characteristic of the process.
 
 ### McKenney’s model
 This model below was the research design used by Susan McKenney in her thesis.
 
-# IMAGE
+# IMAGE 3
+![cycle3]()
+_Display of the cascade-sea study (McKenney, 2001)_
 
 It has three main phases: needs & context analysis; design, development & formative evaluation; and semi-summative evaluation.
 
@@ -128,7 +134,9 @@ According to the scale, each cycle lasted about six months.
 ### McKenney and Reeves’ model
 Based on their survey and analysis of existing models and frameworks for DBR, McKenney and Reeves created the _generic model for conducting design research in education_:
 
-# IMAGE
+# IMAGE 4
+![cycle4]()
+_Generic model for conducting design research in education (McKenney & Reeves, 2012)_
 
 This model shows the core elements of a flexible process that features the three main stages: analysis/exploration, design/construction, and evaluation/reflection. 
 
@@ -138,6 +146,7 @@ The three stages take place in interaction with implementation and spread, and t
 Authors may vary in the details of how they portray DBR, but they all agree that DBR consists of three main phases: preliminary research, development or prototyping phase, and assessment phase (Plomp, 2013).
 
 # IMAGE
+![cycle5]()
 
 * **Preliminary research** consists of needs and context analysis, review of the literature and of projects addressing questions similar to the ones in your study, and development of a conceptual framework.
 * The **development or prototyping phase** consists of an iterative process where prototypes are going to be tried out and revised on the basis of formative evaluations. It aims at improving and refining the intervention. 
@@ -182,7 +191,9 @@ theory oriented: scientific understanding is used to frame not only the research
 ### Generic Design Research Model
 In his _Generic Design Research Model_, Wademan (2005) pictures the features and characteristics of DBR. His model illustrates that the successive approximation of practical products or results (referred to as ‘interventions’) is working side by side with the successive approximation of theory (referred to as ‘design principles’).
 
-# IMAGE
+# IMAGE 6
+![cycle6]()
+_Generic design research model (Wademan, 2005)_
 
 #### Reading recommendations:
 For a deeper discussion of the DBR characteristics, check the references.
